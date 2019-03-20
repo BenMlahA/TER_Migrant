@@ -1,0 +1,492 @@
+Turn		62	862	26928	{polarité=neutral, turn_ID=26928, turn_takerID=25318}
+Turn		868	1533	26929	{polarité=positif, turn_ID=26929, turn_takerID=25341}
+Sentiment		974	992	32385	{polarité=positif}
+Sentiment		974	981	32630	{polarité=positif}
+Sentiment		985	992	32631	{polarité=positif}
+Sentiment		1104	1110	32387	{polarité=positif}
+Sentiment		1114	1120	32388	{polarité=positif}
+Sentiment		1303	1308	27862	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		1411	1429	32629	{polarité=négatif}
+Sentiment		1490	1496	32389	{polarité=positif}
+Turn		1541	1778	26930	{polarité=neutral, turn_ID=26930, turn_takerID=25363}
+Turn		1784	2439	26931	{polarité=négatif, turn_ID=26931, turn_takerID=25368}
+Sentiment		1902	1907	32392	{polarité=négatif}
+Sentiment		1915	1925	27871	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		2246	2253	32393	{polarité=positif}
+Sentiment		2391	2396	32394	{polarité=positif}
+Turn		2447	2582	26932	{polarité=neutral, turn_ID=26932, turn_takerID=25386}
+Turn		2588	4204	26933	{polarité=négatif, turn_ID=26933, turn_takerID=25392}
+Sentiment		2650	2656	32397	{polarité=négatif}
+Sentiment		2741	2747	32398	{polarité=positif}
+Sentiment		2793	2798	32399	{polarité=positif}
+Sentiment		2847	2862	32401	{polarité=positif}
+Sentiment		2902	2907	27877	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		3001	3014	32402	{polarité=négatif}
+Sentiment		3051	3064	32403	{polarité=négatif}
+Sentiment		3091	3104	32404	{polarité=négatif}
+Sentiment		3161	3166	27878	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		3243	3248	32405	{polarité=négatif}
+Sentiment		3249	3264	27879	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		3406	3411	27881	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		3422	3431	32406	{polarité=négatif}
+Sentiment		3427	3431	27882	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		3446	3451	32407	{polarité=positif}
+Sentiment		3476	3497	32408	{polarité=négatif}
+Sentiment		3493	3497	27883	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		3553	3558	27884	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		3619	3624	27885	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		3628	3634	32409	{polarité=négatif}
+Sentiment		3682	3687	32410	{polarité=positif}
+Sentiment		3728	3733	32411	{polarité=négatif}
+Sentiment		3971	3979	32412	{polarité=négatif}
+Sentiment		4088	4096	32413	{polarité=négatif}
+Turn		4212	4252	26934	{polarité=neutral, turn_ID=26934, turn_takerID=25436}
+Turn		4258	5174	26935	{polarité=positif, turn_ID=26935, turn_takerID=25437}
+Sentiment		4349	4355	32414	{polarité=positif}
+Sentiment		4725	4730	27901	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		4749	4754	27903	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		4786	4795	32415	{polarité=positif}
+Sentiment		4826	4832	32416	{polarité=négatif}
+Sentiment		4956	4964	32632	{polarité=positif}
+Sentiment		4995	5003	32417	{polarité=positif}
+Sentiment		5116	5122	32418	{polarité=négatif}
+Sentiment		5125	5130	32419	{polarité=négatif}
+Turn		5182	5209	26936	{polarité=neutral, turn_ID=26936, turn_takerID=25454}
+Turn		5215	5237	26937	{polarité=positif, turn_ID=26937, turn_takerID=25457}
+Turn		5245	5382	26938	{polarité=neutral, turn_ID=26938, turn_takerID=25460}
+Turn		5388	5399	26939	{polarité=négatif, turn_ID=26939, turn_takerID=25469}
+Turn		5407	5440	26940	{polarité=neutral, turn_ID=26940, turn_takerID=25470}
+Turn		5446	5476	26941	{polarité=négatif, turn_ID=26941, turn_takerID=25473}
+Turn		5484	5530	26942	{polarité=neutral, turn_ID=26942, turn_takerID=25475}
+Turn		5536	5638	26943	{polarité=négatif, turn_ID=26943, turn_takerID=25476}
+Sentiment		5563	5569	32420	{polarité=négatif}
+Sentiment		5618	5623	27912	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		5627	5633	32422	{polarité=négatif}
+Turn		5646	5669	26944	{polarité=neutral, turn_ID=26944, turn_takerID=25479}
+Turn		5675	8664	26945	{polarité=négatif, turn_ID=26945, turn_takerID=25482}
+Sentiment		5691	5696	27913	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		5700	5706	32423	{polarité=négatif}
+Sentiment		5742	5746	27914	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		5763	5772	32424	{polarité=positif}
+Sentiment		5811	5820	32425	{polarité=positif}
+Sentiment		5844	5853	32426	{polarité=positif}
+Sentiment		5933	5942	32427	{polarité=positif}
+Sentiment		5991	5995	32428	{polarité=négatif}
+Sentiment		6004	6009	32429	{polarité=négatif}
+Sentiment		6319	6326	32430	{polarité=négatif}
+Sentiment		6429	6437	27926	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		6631	6639	32431	{polarité=positif}
+Sentiment		6660	6668	32432	{polarité=positif}
+Sentiment		7030	7036	32433	{mourir=négatif}
+Sentiment		7062	7067	27936	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		7085	7100	32434	{polarité=négatif}
+Sentiment		7149	7157	27937	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		7182	7190	27938	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		7304	7315	32435	{polarité=négatif}
+Sentiment		7304	7307	27939	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		7435	7442	32436	{polarité=négatif}
+Sentiment		7463	7470	32437	{polarité=négatif}
+Sentiment		7735	7746	32633	{polarité=négatif}
+Sentiment		7741	7746	27944	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		7755	7791	32438	{polarité=négatif}
+Sentiment		7953	7967	32439	{polarité=négatif}
+Sentiment		7953	7958	27952	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		8052	8055	32441	{polarité=négatif}
+Sentiment		8499	8510	32442	{polarité=négatif}
+Sentiment		8499	8502	27961	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		8547	8550	27962	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		8652	8658	27965	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		8672	8771	26946	{polarité=neutral, turn_ID=26946, turn_takerID=25568}
+Turn		8777	8979	26947	{polarité=négatif, turn_ID=26947, turn_takerID=25570}
+Sentiment		8871	8878	32443	{hôpital=négatif}
+Turn		8987	9054	26948	{polarité=neutral, turn_ID=26948, turn_takerID=25580}
+Turn		9060	9097	26949	{polarité=négatif, turn_ID=26949, turn_takerID=25582}
+Turn		9105	9122	26950	{turn_ID=26950, turn_takerID=25585}
+Turn		9128	9333	26951	{polarité=négatif, turn_ID=26951, turn_takerID=25586}
+Sentiment		9192	9199	32445	{polarité=négatif}
+Turn		9341	9447	26952	{polarité=neutral, turn_ID=26952, turn_takerID=25593}
+Turn		9453	9505	26953	{polarité=négatif, turn_ID=26953, turn_takerID=25596}
+Turn		9513	9537	26954	{turn_ID=26954, turn_takerID=25598}
+Turn		9543	9830	26955	{polarité=négatif, turn_ID=26955, turn_takerID=25599}
+Turn		9838	9961	26956	{polarité=neutral, turn_ID=26956, turn_takerID=25607}
+Turn		9967	10429	26957	{polarité=négatif, turn_ID=26957, turn_takerID=25611}
+Sentiment		10184	10189	32446	{polarité=positif}
+Sentiment		10236	10249	32447	{polarité=négatif}
+Sentiment		10236	10242	27974	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		10276	10289	32448	{polarité=négatif}
+Sentiment		10276	10282	27976	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		10302	10306	32449	{polarité=négatif}
+Turn		10437	10550	26958	{polarité=, turn_ID=26958, turn_takerID=25627}
+Turn		10556	10740	26959	{polarité=positif, turn_ID=26959, turn_takerID=25628}
+Sentiment		10606	10622	32452	{polarité=positif}
+Sentiment		10612	10622	27980	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		10681	10691	32634	{polarité=positif}
+Turn		10748	10811	26960	{turn_ID=26960, turn_takerID=25638}
+Turn		10817	10825	26961	{polarité=, turn_ID=26961, turn_takerID=25639}
+Turn		10833	10875	26962	{polarité=neutral, turn_ID=26962, turn_takerID=25640}
+Turn		10881	12010	26963	{polarité=neutral, turn_ID=26963, turn_takerID=25641}
+Sentiment		10991	10997	32453	{polarité=positif}
+Sentiment		11002	11008	32454	{polarité=positif}
+Sentiment		11049	11065	32456	{polarité=positif}
+Sentiment		11059	11065	32455	{polarité=positif}
+Sentiment		11726	11733	27987	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		11941	11948	27988	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		11951	11955	32457	{polarité=négatif}
+Turn		12018	12133	26964	{turn_ID=26964, turn_takerID=25674}
+Turn		12139	12207	26965	{polarité=négatif, turn_ID=26965, turn_takerID=25677}
+Turn		12215	12243	26966	{turn_ID=26966, turn_takerID=25678}
+Turn		12249	12275	26967	{polarité=négatif, turn_ID=26967, turn_takerID=25681}
+Turn		12283	12387	26968	{polarité=neutral, turn_ID=26968, turn_takerID=25682}
+Turn		12393	12409	26969	{polarité=positif, turn_ID=26969, turn_takerID=25685}
+Turn		12417	12432	26970	{polarité=neutral, turn_ID=26970, turn_takerID=25686}
+Turn		12438	13739	26971	{polarité=négatif, turn_ID=26971, turn_takerID=25687}
+Sentiment		12502	12512	32460	{polarité=négatif}
+Sentiment		12619	12629	32461	{polarité=négatif}
+Sentiment		12660	12671	32462	{polarité=négatif}
+Sentiment		12788	12799	32463	{polarité=positif}
+Sentiment		12891	12901	32464	{polarité=négatif}
+Sentiment		13299	13308	32465	{polarité=négatif}
+Sentiment		13364	13376	32466	{polarité=positif}
+Sentiment		13562	13572	32467	{polarité=négatif}
+Sentiment		13687	13694	32468	{polarité=négatif}
+Sentiment		13695	13701	32469	{polarité=négatif}
+Sentiment		13727	13733	28002	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		13747	13827	26972	{polarité=neutral, turn_ID=26972, turn_takerID=25718}
+Turn		13833	13883	26973	{polarité=positif, turn_ID=26973, turn_takerID=25721}
+Sentiment		13857	13864	32472	{polarité=positif}
+Turn		13891	13910	26974	{polarité=neutral, turn_ID=26974, turn_takerID=25724}
+Turn		13916	14515	26975	{polarité=positif, turn_ID=26975, turn_takerID=25725}
+Sentiment		13989	13999	32473	{polarité=négatif}
+Sentiment		14025	14030	32474	{polarité=positif}
+Sentiment		14025	14037	32475	{polarité=positif}
+Sentiment		14093	14104	32477	{polarité=négatif}
+Sentiment		14097	14104	32482	{polarité=négatif}
+Sentiment		14357	14369	32478	{polarité=positif}
+Turn		14523	14617	26976	{polarité=neutral, turn_ID=26976, turn_takerID=25745}
+Turn		14623	15225	26977	{polarité=négatif, turn_ID=26977, turn_takerID=25748}
+Sentiment		14750	14758	32479	{polarité=négatif}
+Sentiment		14971	14981	32480	{polarité=négatif}
+Sentiment		14975	14981	32483	{polarité=négatif}
+Sentiment		15207	15219	28014	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Turn		15233	15326	26978	{polarité=neutral, turn_ID=26978, turn_takerID=25766}
+Turn		15332	16562	26979	{polarité=négatif, turn_ID=26979, turn_takerID=25768}
+Sentiment		16200	16207	32484	{polarité=négatif}
+Sentiment		16276	16283	32485	{polarité=négatif}
+Turn		16570	16587	26980	{polarité=neutral, turn_ID=26980, turn_takerID=25804}
+Turn		16593	18221	26981	{polarité=négatif, turn_ID=26981, turn_takerID=25805}
+Sentiment		16693	16707	28026	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		17171	17177	28029	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		17319	17326	32487	{polarité=négatif}
+Sentiment		17421	17428	32488	{polarité=négatif}
+Sentiment		17523	17532	28034	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		17620	17629	32489	{polarité=négatif}
+Sentiment		17622	17629	32490	{polarité=négatif}
+Sentiment		17799	17811	32491	{polarité=négatif}
+Sentiment		17856	17866	32492	{polarité=positif}
+Sentiment		17928	17935	32493	{polarité=négatif}
+Sentiment		18189	18196	32494	{polarité=négatif}
+Turn		18229	18273	26982	{polarité=neutral, turn_ID=26982, turn_takerID=25844}
+Turn		18279	18291	26983	{polarité=neutral, turn_ID=26983, turn_takerID=25845}
+Turn		18298	18351	26984	{polarité=neutral, turn_ID=26984, turn_takerID=25846}
+Turn		18357	18369	26985	{polarité=neutral, turn_ID=26985, turn_takerID=25848}
+Turn		18377	18388	26986	{polarité=neutral, turn_ID=26986, turn_takerID=25849}
+Turn		18394	20519	26987	{polarité=négatif, turn_ID=26987, turn_takerID=25850}
+Sentiment		19090	19096	32495	{polarité=négatif}
+Sentiment		19679	19686	32496	{polarité=négatif}
+Sentiment		19715	19722	32497	{polarité=négatif}
+Sentiment		20138	20145	32498	{polarité=négatif}
+Sentiment		20297	20301	32499	{polarité=négatif}
+Turn		20527	20629	26988	{polarité=neutral, turn_ID=26988, turn_takerID=25907}
+Turn		20635	20670	26989	{polarité=neutral, turn_ID=26989, turn_takerID=25911}
+Turn		20678	20767	26990	{polarité=neutral, turn_ID=26990, turn_takerID=25914}
+Turn		20773	20995	26991	{polarité=négatif, turn_ID=26991, turn_takerID=25916}
+Sentiment		20944	20951	28059	{language=fr, majorType=polarity, minorType=source, polarity=négatif, source=Marion}
+Turn		21003	21040	26992	{polarité=neutral, turn_ID=26992, turn_takerID=25926}
+Turn		21046	21981	26993	{polarité=positif, turn_ID=26993, turn_takerID=25929}
+Sentiment		21776	21787	32506	{polarité=positif}
+Turn		21989	22129	26994	{polarité=neutral, turn_ID=26994, turn_takerID=25953}
+Turn		22135	22163	26995	{polarité=positif, turn_ID=26995, turn_takerID=25956}
+Turn		22171	22194	26996	{polarité=neutral, turn_ID=26996, turn_takerID=25959}
+Turn		22200	22228	26997	{polarité=positif, turn_ID=26997, turn_takerID=25962}
+Turn		22236	22329	26998	{polarité=neutral, turn_ID=26998, turn_takerID=25965}
+Turn		22335	22477	26999	{polarité=négatif, turn_ID=26999, turn_takerID=25970}
+Sentiment		22379	22385	32508	{polarité=négatif}
+Turn		22485	22552	27000	{polarité=neutral, turn_ID=27000, turn_takerID=25976}
+Turn		22558	22885	27001	{polarité=positif, turn_ID=27001, turn_takerID=25978}
+Sentiment		22733	22736	28062	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		22806	22811	32509	{polarité=positif}
+Sentiment		22806	22818	32510	{polarité=positif}
+Turn		22893	23049	27002	{polarité=neutral, turn_ID=27002, turn_takerID=25988}
+Turn		23055	23245	27003	{polarité=neutral, turn_ID=27003, turn_takerID=25993}
+Turn		23253	23308	27004	{polarité=neutral, turn_ID=27004, turn_takerID=26003}
+Turn		23314	23983	27005	{polarité=négatif, turn_ID=27005, turn_takerID=26005}
+Sentiment		23405	23415	32516	{polarité=négatif}
+Sentiment		23409	23415	32515	{polarité=négatif}
+Sentiment		23694	23697	28069	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		23710	23717	28070	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		23955	23958	28071	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		23991	24014	27006	{polarité=neutral, turn_ID=27006, turn_takerID=26027}
+Turn		24020	24045	27007	{polarité=négatif, turn_ID=27007, turn_takerID=26028}
+Turn		24053	24119	27008	{polarité=neutral, turn_ID=27008, turn_takerID=26029}
+Turn		24125	24685	27009	{polarité=négatif, turn_ID=27009, turn_takerID=26033}
+Sentiment		24663	24669	32517	{polarité=négatif}
+Sentiment		24663	24679	32635	{polarité=négatif}
+Turn		24693	24730	27010	{polarité=neutral, turn_ID=27010, turn_takerID=26047}
+Turn		24736	24771	27011	{polarité=neutral, turn_ID=27011, turn_takerID=26050}
+Turn		24779	24975	27012	{polarité=neutral, turn_ID=27012, turn_takerID=26051}
+Turn		24981	25500	27013	{polarité=négatif, turn_ID=27013, turn_takerID=26058}
+Sentiment		25328	25339	32636	{polarité=négatif}
+Turn		25508	25665	27014	{polarité=neutral, turn_ID=27014, turn_takerID=26077}
+Turn		25671	25871	27015	{polarité=négatif, turn_ID=27015, turn_takerID=26082}
+Sentiment		25811	25818	32522	{polarité=négatif}
+Turn		25879	25984	27016	{polarité=neutral, turn_ID=27016, turn_takerID=26086}
+Turn		25990	26576	27017	{polarité=négatif, turn_ID=27017, turn_takerID=26088}
+Sentiment		26244	26256	32523	{polarité=négatif}
+Sentiment		26249	26256	32524	{polarité=négatif}
+Turn		26584	26650	27018	{polarité=neutral, turn_ID=27018, turn_takerID=26103}
+Turn		26656	26664	27019	{polarité=négatif, turn_ID=27019, turn_takerID=26106}
+Turn		26672	26747	27020	{polarité=neutral, turn_ID=27020, turn_takerID=26107}
+Turn		26753	26930	27021	{polarité=négatif, turn_ID=27021, turn_takerID=26109}
+Sentiment		26903	26906	32525	{polarité=négatif}
+Turn		26938	27102	27022	{polarité=neutral, turn_ID=27022, turn_takerID=26114}
+Turn		27108	27297	27023	{polarité=négatif, turn_ID=27023, turn_takerID=26118}
+Sentiment		27166	27171	32527	{polarité=négatif}
+Turn		27305	27389	27024	{polarité=neutre, turn_ID=27024, turn_takerID=26125}
+Turn		27395	27423	27025	{polarité=négatif, turn_ID=27025, turn_takerID=26129}
+Turn		27431	27488	27026	{polarité=neutral, turn_ID=27026, turn_takerID=26132}
+Turn		27494	27784	27027	{polarité=négatif, turn_ID=27027, turn_takerID=26134}
+Sentiment		27584	27594	32529	{polarité=négatif}
+Sentiment		27609	27623	32530	{polarité=négatif}
+Sentiment		27723	27729	28106	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		27742	27746	32531	{polarité=négatif}
+Sentiment		27752	27758	32532	{polarité=négatif}
+Turn		27792	27876	27028	{polarité=neutral, turn_ID=27028, turn_takerID=26140}
+Turn		27882	27922	27029	{polarité=négatif, turn_ID=27029, turn_takerID=26143}
+Sentiment		27892	27899	28109	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		27930	27959	27030	{polarité=neutral, turn_ID=27030, turn_takerID=26144}
+Turn		27965	28116	27031	{polarité=négatif, turn_ID=27031, turn_takerID=26147}
+Sentiment		27989	27996	28110	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		28124	28261	27032	{polarité=neutral, turn_ID=27032, turn_takerID=26153}
+Turn		28267	28525	27033	{polarité=négatif, turn_ID=27033, turn_takerID=26158}
+Turn		28533	28646	27034	{polarité=neutral, turn_ID=27034, turn_takerID=26168}
+Turn		28652	28859	27035	{polarité=négatif, turn_ID=27035, turn_takerID=26170}
+Sentiment		28697	28704	28114	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		28783	28797	32535	{polarité=négatif}
+Sentiment		28823	28831	28115	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		28867	28982	27036	{polarité=neutral, turn_ID=27036, turn_takerID=26179}
+Turn		28988	29018	27037	{polarité=positif, turn_ID=27037, turn_takerID=26182}
+Turn		29026	29053	27038	{polarité=neutral, turn_ID=27038, turn_takerID=26183}
+Turn		29059	29261	27039	{polarité=positif, turn_ID=27039, turn_takerID=26184}
+Turn		29269	29298	27040	{polarité=neutral, turn_ID=27040, turn_takerID=26192}
+Turn		29304	29313	27041	{polarité=neutral, turn_ID=27041, turn_takerID=26193}
+Turn		29321	29361	27042	{polarité=neutral, turn_ID=27042, turn_takerID=26194}
+Turn		29367	29411	27043	{polarité=neutral, turn_ID=27043, turn_takerID=26195}
+Turn		29419	29484	27044	{polarité=neutral, turn_ID=27044, turn_takerID=26196}
+Turn		29490	29865	27045	{polarité=positif, turn_ID=27045, turn_takerID=26197}
+Sentiment		29707	29713	32637	{polarité=positif}
+Turn		29873	30049	27046	{polarité=neutral, turn_ID=27046, turn_takerID=26212}
+Turn		30055	30204	27047	{polarité=neutral, turn_ID=27047, turn_takerID=26219}
+Turn		30212	30317	27048	{polarité=neutral, turn_ID=27048, turn_takerID=26227}
+Turn		30323	30473	27049	{polarité=neutral, turn_ID=27049, turn_takerID=26231}
+Turn		30481	30687	27050	{polarité=neutral, turn_ID=27050, turn_takerID=26236}
+Turn		30693	31063	27051	{polarité=négatif, turn_ID=27051, turn_takerID=26240}
+Sentiment		30768	30775	32541	{polarité=positif}
+Sentiment		30819	30821	32638	{polarité=positif}
+Sentiment		30872	30878	32542	{polarité=négatif}
+Sentiment		30897	30911	32543	{polarité=négatif}
+Turn		31071	31124	27052	{polarité=neutral, turn_ID=27052, turn_takerID=26251}
+Turn		31130	31676	27053	{polarité=négatif, turn_ID=27053, turn_takerID=26252}
+Sentiment		31249	31255	32545	{polarité=négatif}
+Sentiment		31249	31265	32546	{polarité=négatif}
+Sentiment		31325	31330	32547	{polarité=négatif}
+Sentiment		31419	31423	28133	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		31652	31658	32548	{polarité=négatif}
+Turn		31684	31819	27054	{polarité=neutral, turn_ID=27054, turn_takerID=26273}
+Turn		31825	32390	27055	{polarité=positif, turn_ID=27055, turn_takerID=26278}
+Sentiment		32014	32022	32549	{polarité=négatif}
+Sentiment		32194	32206	32550	{polarité=positif}
+Sentiment		32278	32290	32551	{polarité=positif}
+Sentiment		32298	32348	32639	{polarité=positif}
+Sentiment		32343	32348	32641	{polarité=positif}
+Sentiment		32353	32360	32640	{polarité=positif}
+Turn		32398	32522	27056	{polarité=neutral, turn_ID=27056, turn_takerID=26290}
+Turn		32528	33965	27057	{polarité=négatif, turn_ID=27057, turn_takerID=26295}
+Sentiment		32615	32627	32553	{polarité=positif}
+Sentiment		32727	32738	32642	{polarité=positif}
+Sentiment		33074	33085	32643	{polarité=positif}
+Sentiment		33164	33171	32554	{polarité=négatif}
+Sentiment		33185	33191	32555	{polarité=négatif}
+Sentiment		33467	33475	28143	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		33488	33493	32556	{polarité=positif}
+Sentiment		33499	33507	32557	{polarité=positif}
+Sentiment		33586	33596	32645	{polarité=positif}
+Sentiment		33660	33670	32644	{polarité=positif}
+Sentiment		33923	33930	32559	{polarité=négatif}
+Turn		33973	34099	27058	{polarité=neutral, turn_ID=27058, turn_takerID=26326}
+Turn		34105	34463	27059	{polarité=négatif, turn_ID=27059, turn_takerID=26328}
+Sentiment		34242	34254	32561	{polarité=négatif}
+Turn		34471	34604	27060	{polarité=neutral, turn_ID=27060, turn_takerID=26341}
+Turn		34610	34749	27061	{polarité=neutral, turn_ID=27061, turn_takerID=26343}
+Sentiment		34617	34625	32563	{polarité=négatif}
+Turn		34757	34812	27062	{polarité=neutral, turn_ID=27062, turn_takerID=26346}
+Turn		34818	34841	27063	{polarité=neutral, turn_ID=27063, turn_takerID=26347}
+Turn		34849	34998	27064	{polarité=neutral, turn_ID=27064, turn_takerID=26348}
+Turn		35004	35026	27065	{polarité=neutre, turn_ID=27065, turn_takerID=26351}
+Turn		35034	35056	27066	{polarité=neutral, turn_ID=27066, turn_takerID=26354}
+Turn		35062	35326	27067	{polarité=négatif, turn_ID=27067, turn_takerID=26355}
+Sentiment		35074	35078	28150	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		35120	35126	32565	{polarité=négatif}
+Turn		35334	35402	27068	{polarité=neutral, turn_ID=27068, turn_takerID=26367}
+Turn		35408	35694	27069	{polarité=négatif, turn_ID=27069, turn_takerID=26369}
+Sentiment		35642	35647	32567	{polarité=négative}
+Turn		35702	35811	27070	{polarité=neutral, turn_ID=27070, turn_takerID=26378}
+Turn		35817	36135	27071	{polarité=négatif, turn_ID=27071, turn_takerID=26381}
+Sentiment		35958	35962	32568	{polarité=négatif}
+Sentiment		36001	36009	32569	{polarité=positif}
+Turn		36143	36301	27072	{polarité=neutral, turn_ID=27072, turn_takerID=26392}
+Turn		36307	36316	27073	{polarité=neutral, turn_ID=27073, turn_takerID=26396}
+Turn		36324	36379	27074	{polarité=neutral, turn_ID=27074, turn_takerID=26397}
+Turn		36385	36731	27075	{polarité=négatif, turn_ID=27075, turn_takerID=26399}
+Turn		36739	36774	27076	{polarité=neutral, turn_ID=27076, turn_takerID=26410}
+Turn		36781	36799	27077	{polarité=négatif, turn_ID=27077, turn_takerID=26414}
+Turn		36814	36899	27078	{polarité=neutral, turn_ID=27078, turn_takerID=26415}
+Turn		36905	36950	27079	{polarité=neutral, turn_ID=27079, turn_takerID=26417}
+Turn		36958	36974	27080	{polarité=neutral, turn_ID=27080, turn_takerID=26419}
+Turn		36980	37132	27081	{polarité=négatif, turn_ID=27081, turn_takerID=26420}
+Turn		37140	37306	27082	{polarité=neutral, turn_ID=27082, turn_takerID=26428}
+Turn		37312	37427	27083	{polarité=positif, turn_ID=27083, turn_takerID=26436}
+Sentiment		37324	37330	32573	{polarité=positif}
+Turn		37435	37487	27084	{polarité=neutral, turn_ID=27084, turn_takerID=26441}
+Turn		37493	37603	27085	{polarité=neutral, turn_ID=27085, turn_takerID=26442}
+Turn		37611	37688	27086	{polarité=neutral, turn_ID=27086, turn_takerID=26448}
+Turn		37694	38043	27087	{polarité=neutral, turn_ID=27087, turn_takerID=26452}
+Turn		38051	38115	27088	{polarité=neutral, turn_ID=27088, turn_takerID=26465}
+Turn		38121	40246	27089	{polarité=négatif, turn_ID=27089, turn_takerID=26466}
+Sentiment		38423	38430	28176	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		38663	38671	32575	{polarité=positif}
+Sentiment		38834	38837	32576	{polarité=positif}
+Sentiment		39375	39385	32577	{polarité=positif}
+Sentiment		39927	39939	32578	{polarité=négatif}
+Turn		40254	40323	27090	{polarité=neutral, turn_ID=27090, turn_takerID=26527}
+Turn		40329	40353	27091	{polarité=, turn_ID=27091, turn_takerID=26531}
+Turn		40361	40419	27092	{polarité=, turn_ID=27092, turn_takerID=26534}
+Turn		40425	41256	27093	{polarité=positif, turn_ID=27093, turn_takerID=26535}
+Sentiment		40581	40587	28191	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		40642	40649	28192	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		40697	40702	32581	{polarité=positif}
+Sentiment		40738	40749	32582	{polarité=positif}
+Turn		41264	41303	27094	{polarité=neutral, turn_ID=27094, turn_takerID=26564}
+Turn		41309	41889	27095	{polarité=positif, turn_ID=27095, turn_takerID=26565}
+Sentiment		41313	41333	32584	{polarité=positif}
+Sentiment		41402	41407	32585	{polarité=positif}
+Sentiment		41614	41635	32647	{polarité=positif}
+Sentiment		41661	41667	32586	{polarité=positif}
+Sentiment		41723	41729	28196	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		41897	42179	27096	{polarité=neutral, turn_ID=27096, turn_takerID=26581}
+Turn		42185	42414	27097	{polarité=positif, turn_ID=27097, turn_takerID=26595}
+Sentiment		42241	42253	32589	{polarité=positif}
+Sentiment		42342	42354	32590	{polarité=positif}
+Sentiment		42358	42378	32591	{polarité=positif}
+Turn		42422	42483	27098	{polarité=neutral, turn_ID=27098, turn_takerID=26601}
+Turn		42489	42545	27099	{polarité=, turn_ID=27099, turn_takerID=26602}
+Turn		42553	42627	27100	{polarité=neutral, turn_ID=27100, turn_takerID=26608}
+Turn		42633	42973	27101	{polarité=positif, turn_ID=27101, turn_takerID=26611}
+Sentiment		42883	42901	32592	{polarité=positif}
+Turn		42981	43052	27102	{polarité=neutral, turn_ID=27102, turn_takerID=26621}
+Turn		43058	43081	27103	{polarité=neutral, turn_ID=27103, turn_takerID=26625}
+Turn		43089	43102	27104	{polarité=neutral, turn_ID=27104, turn_takerID=26626}
+Turn		43108	43131	27105	{polarité=neutral, turn_ID=27105, turn_takerID=26627}
+Turn		43139	43226	27106	{polarité=neutral, turn_ID=27106, turn_takerID=26630}
+Turn		43232	43242	27107	{polarité=neutral, turn_ID=27107, turn_takerID=26635}
+Turn		43250	43269	27108	{polarité=neutral, turn_ID=27108, turn_takerID=26636}
+Turn		43275	43285	27109	{polarité=neutral, turn_ID=27109, turn_takerID=26637}
+Turn		43293	43358	27110	{polarité=neutral, turn_ID=27110, turn_takerID=26639}
+Turn		43364	43394	27111	{polarité=positif, turn_ID=27111, turn_takerID=26641}
+Turn		43402	43449	27112	{polarité=neutral, turn_ID=27112, turn_takerID=26644}
+Turn		43455	44007	27113	{polarité=positif, turn_ID=27113, turn_takerID=26646}
+Sentiment		43851	43855	28208	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		43875	43879	28209	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		43905	43910	28210	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Turn		44015	44120	27114	{polarité=neutral, turn_ID=27114, turn_takerID=26657}
+Turn		44126	44509	27115	{polarité=positif, turn_ID=27115, turn_takerID=26659}
+Sentiment		44305	44320	32595	{polarité=positif}
+Sentiment		44391	44397	28213	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		44457	44464	28214	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Turn		44517	44629	27116	{polarité=neutral, turn_ID=27116, turn_takerID=26671}
+Turn		44635	44694	27117	{polarité=neutral, turn_ID=27117, turn_takerID=26675}
+Turn		44702	44726	27118	{polarité=neutral, turn_ID=27118, turn_takerID=26676}
+Turn		44732	44755	27119	{polarité=neutral, turn_ID=27119, turn_takerID=26677}
+Turn		44763	44825	27120	{polarité=neutral, turn_ID=27120, turn_takerID=26680}
+Turn		44831	44969	27121	{polarité=neutral, turn_ID=27121, turn_takerID=26681}
+Turn		44977	45059	27122	{polarité=neutral, turn_ID=27122, turn_takerID=26684}
+Turn		45065	45625	27123	{polarité=neutral, turn_ID=27123, turn_takerID=26687}
+Sentiment		45178	45188	28221	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Turn		45633	45717	27124	{polarité=neutral, turn_ID=27124, turn_takerID=26697}
+Turn		45723	45744	27125	{polarité=neutral, turn_ID=27125, turn_takerID=26699}
+Turn		45752	45806	27126	{polarité=neutral, turn_ID=27126, turn_takerID=26702}
+Turn		45812	45820	27127	{polarité=neutral, turn_ID=27127, turn_takerID=26704}
+Turn		45828	45905	27128	{polarité=neutral, turn_ID=27128, turn_takerID=26705}
+Turn		45911	46008	27129	{polarité=neutral, turn_ID=27129, turn_takerID=26706}
+Turn		46016	46032	27130	{polarité=neutral, turn_ID=27130, turn_takerID=26708}
+Turn		46038	46489	27131	{polarité=positif, turn_ID=27131, turn_takerID=26709}
+Sentiment		46295	46305	28231	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Sentiment		46359	46377	32597	{polarité=négatif}
+Sentiment		46387	46394	32598	{polarité=positif}
+Sentiment		46468	46476	32599	{polarité=négatif}
+Turn		46497	46644	27132	{polarité=neutral, turn_ID=27132, turn_takerID=26722}
+Turn		46650	47331	27133	{polarité=, turn_ID=27133, turn_takerID=26729}
+Sentiment		46733	46751	32603	{polarité=positif}
+Sentiment		46874	46881	32604	{polarité=positif}
+Sentiment		46909	46919	32605	{polarité=négatif}
+Sentiment		47182	47189	32606	{polarité=négatif}
+Turn		47339	47397	27134	{polarité=neutral, turn_ID=27134, turn_takerID=26750}
+Turn		47403	47427	27135	{polarité=neutral, turn_ID=27135, turn_takerID=26752}
+Turn		47435	47526	27136	{polarité=neutral, turn_ID=27136, turn_takerID=26755}
+Turn		47532	47551	27137	{polarité=neutral, turn_ID=27137, turn_takerID=26759}
+Turn		47559	47604	27138	{polarité=neutral, turn_ID=27138, turn_takerID=26761}
+Turn		47610	47698	27139	{polarité=neutral, turn_ID=27139, turn_takerID=26763}
+Turn		47706	47829	27140	{polarité=neutral, turn_ID=27140, turn_takerID=26766}
+Turn		47835	47868	27141	{polarité=neutral, turn_ID=27141, turn_takerID=26772}
+Turn		47876	47923	27142	{polarité=neutral, turn_ID=27142, turn_takerID=26776}
+Turn		47929	48466	27143	{polarité=, turn_ID=27143, turn_takerID=26777}
+Sentiment		48396	48406	32609	{polarité=négatif}
+Sentiment		48446	48456	32610	{polarité=négatif}
+Turn		48474	48508	27144	{polarité=neutral, turn_ID=27144, turn_takerID=26797}
+Turn		48514	48742	27145	{polarité=neutral, turn_ID=27145, turn_takerID=26798}
+Turn		48750	48776	27146	{polarité=neutral, turn_ID=27146, turn_takerID=26805}
+Turn		48782	49065	27147	{polarité=neutral, turn_ID=27147, turn_takerID=26806}
+Turn		49073	49119	27148	{polarité=neutral, turn_ID=27148, turn_takerID=26819}
+Turn		49125	49147	27149	{polarité=neutral, turn_ID=27149, turn_takerID=26821}
+Sentiment		49135	49142	32612	{polarité=négatif}
+Turn		49155	49177	27150	{polarité=neutral, turn_ID=27150, turn_takerID=26823}
+Turn		49183	49270	27151	{polarité=négatif, turn_ID=27151, turn_takerID=26826}
+Sentiment		49193	49200	32613	{polarité=négatif}
+Sentiment		49223	49226	28245	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		49278	49360	27152	{polarité=neutral, turn_ID=27152, turn_takerID=26829}
+Turn		49366	50884	27153	{polarité=négatif, turn_ID=27153, turn_takerID=26831}
+Sentiment		49386	49392	32616	{polarité=négatif}
+Sentiment		49415	49421	32617	{polarité=négatif}
+Sentiment		49496	49507	32618	{polarité=positif}
+Sentiment		49752	49761	32619	{polarité=négatif}
+Sentiment		49806	49815	28250	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Sentiment		49976	49987	32620	{polarité=positif}
+Sentiment		50127	50138	32621	{polarité=négatif}
+Sentiment		50162	50176	32622	{polarité=négatif}
+Sentiment		50305	50311	32623	{poalrité=négatif}
+Sentiment		50325	50334	32624	{polarité=négatif}
+Sentiment		50380	50391	32648	{polarité=positif}
+Sentiment		50528	50538	32625	{polarité=négatif}
+Sentiment		50705	50712	28256	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		50892	51087	27154	{polarité=neutral, turn_ID=27154, turn_takerID=26872}
+Turn		51093	51383	27155	{polarité=négatif, turn_ID=27155, turn_takerID=26877}
+Sentiment		51098	51107	32626	{polarité=négatif}
+Sentiment		51373	51377	28263	{language=fr, majorType=polarity, minorType=source, polarity=negative, source=Marion}
+Turn		51391	51472	27156	{polarité=neutral, turn_ID=27156, turn_takerID=26887}
+Turn		51478	52318	27157	{polarité=positif, turn_ID=27157, turn_takerID=26889}
+Sentiment		51722	51727	32627	{polarité=positif}
+Sentiment		52038	52046	32628	{polarité=négatif}
+Sentiment		52179	52185	28273	{language=fr, majorType=polarity, minorType=source, polarity=positive, source=Marion}
+Turn		52326	52364	27158	{polarité=neutral, turn_ID=27158, turn_takerID=26913}
+Turn		52370	52395	27159	{polarité=neutral, turn_ID=27159, turn_takerID=26914}
+Turn		52403	52465	27160	{polarité=neutral, turn_ID=27160, turn_takerID=26917}
+Turn		52471	52624	27161	{polarité=neutral, turn_ID=27161, turn_takerID=26921}
